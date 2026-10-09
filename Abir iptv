@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="demo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="kids", Disney channel hd 
+http://ottsolutions.club:80/live/26524828/77125951/78281.ts
