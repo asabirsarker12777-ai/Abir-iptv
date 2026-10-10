@@ -8,3 +8,6 @@ http://ottsolutions.club:80/live/26524828/77125951/62174.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Nick.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", Nick  
 http://103.238.115.159:8080/dd/index.m3u
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://textless.goldposter.com/215/", Movie 1
+https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Doraemon%20Nobitas%20Little%20Star%20Wars%20%282021%29%20BluRay%20%5BHindi-Japanese%5D%201080p%20HEVC%20ESub.mkv
