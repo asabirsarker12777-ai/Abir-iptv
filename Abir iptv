@@ -41,3 +41,6 @@ https://bcdn.hakunaymatata.com/resource/h265/6dd14a4f79b78d2361c56b468eda2858.mp
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/0/0f/2000.jpg/revision/latest?cb=20170901063008&path-prefix=en", Doraemon Nobita and the legend of the sun king 
 https://bcdn.hakunaymatata.com/resource/h265/737630109fc8e36b411ff134ecdab879.mp4?sign=d30b6bfb68f534ddc46bf64317c8650b&t=1792378052
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8b/DrStrangePoster2.jpg/revision/latest?cb=20160724020506", Doctor strange (2016)
+http://100.100.100.6:8096/emby/videos/41748/stream.m3u8?api_key=562e4564d6c34341b872fbaab83ec3f9&Static=true&MediaSourceId=mediasource_41748&DeviceId=c9504e12-1237-4f90-9659-433bf9fc207a
