@@ -44,3 +44,20 @@ https://bcdn.hakunaymatata.com/resource/h265/737630109fc8e36b411ff134ecdab879.mp
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8b/DrStrangePoster2.jpg/revision/latest?cb=20160724020506", Doctor strange (2016)
 http://100.100.100.6:8096/emby/videos/41748/stream.m3u8?api_key=562e4564d6c34341b872fbaab83ec3f9&Static=true&MediaSourceId=mediasource_41748&DeviceId=c9504e12-1237-4f90-9659-433bf9fc207a
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" tvg-name="Midnight Madness",Ben 10 Classic S3E1 - Midnight Madness
+https://fsldownload.com/p/sDf4fzpsGXJ_GjLc.zRWpL0BZuoAOlQiErBlHts5d8Hsk9_bBNU4Yt_iRBExwnnBDM3AKLpfrEd31up7QsRzX8Pnqhbc4GzUbZoLK6mQhnb-47t0UOv2WkUukMdkWicM6wQULRQih0nLDOoad9jeX8XnkZjQVEkqw1Q-OfH5S0n1vl-810aCVKhIdctqUFa_cW18amb1_J-pQImgDghGSUFtY458VgoGf6foyNt44UhSEIoiVCDvl4UiQN7x4yumOjJHsmfjPBUxXeFTKQg31XmR9uJmqpGp_1xol-MtWIiQ4t5cg7N4iAAkYFbNWpA2BBqoTKDZH97MopIAKgCJYC9Srtu15eukFltX67YOueaVCisXR_zdafZbqN1fykBnU7HZHdm1ODw3zI4vRFDt-I41xZYxVv9fpjpS6jpMtNWQodeqNgFG2yjFpT0LJAn_Kepy0pTFDGIvb.6y849bODYa6bgN6My4Bc2A?mg=1792767964.138649.I_xkkX7mD3-KiiF5wGhnVQ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" tvg-name="Ben 10,000",Ben 10 Classic S3E2 - Ben 10,000
+https://fsldownload.com/p/jddwd2oAAyg-RhM9.nNn4vKy3ze0W7bfc-Rhl0aV1ubv58f0AMliauUUkAtERq6GLhRyxsKUyrlkCK6YOLqkttUuennJ-YNyGQFOXSeg9c-koyACsJAIBJFMBYfCnAHE6h6XA3YwfPZ9QfxpQqKgHhL0eEdBTM7O3qU3Lj1CLtBV1J0-pC5BH3v3JUFEjjmTzjmbgxWsHZWJhOCuZhhngdh--uUvYy78bKeSGT3I-EisyT9IzeHiNj2K05ZYL4qYkz4ix50psl0x8Gvk4ZbZoyLbreLGRejLhdzT3dir2I8z6JoInA1NnG1WsvRLISYCe05oPuYm81CLoJh6De7f97O5PfZUQ5l0mcN9UggnfHuUh2ydXAtA2IFTqJ-WI_3_vPphc-HvcuXVmNm-GgzdeSNLfBEkS9vVhGdeR8bvhry_IwrjLbmBYMDlCTI5p2DAOn2y_Fiie0ZPjINwDVwHyzE0.zcUDSYNhCRn6Th0_2odb3w?mg=1792767964.138649.I_xkkX7mD3-KiiF5wGhnVQ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" tvg-name="A Change of Face",Ben 10 Classic S3E3 - A Change of Face
+# Episode 3 URL missing
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" tvg-name="Merry Christmas",Ben 10 Classic S3E4 - Merry Christmas
+https://fsldownload.com/p/TP8HOs1bOCmCzyVS.gArnlAXJmRKfp1faTfsz_2ryAZFd_MM0lw8YUs5Jtjfj744Pi6HEuZCsphyaOJ-dvrPo88hBqsAvDoNvMeH7yeyXJmMoQS7uEgsXJ6XwPdlDnRlmIKrirpxBXLoUZ2zKD10JBK2L6u6tEvZbbIjDYucnnVMRVeOIxuv5GBAXXB8EQCC4nQP9uow6yrOuVn9UtMWc_lomAcbplRmhJWqAl1pchwDCqe8Ms3SXJLe0x52UN4Mu6vNubQHjwP58BUzLtpaiY5F6Vfocfj6EvW_IkWhm8c0Xo4kox3i-6CSCvceaxzPwrfCdYcefSqrsAiCvuM6UkGFOXEnU4pP0XVIzOAdkZJ5WRj0j5Nt2T_LsJiYyENNHQ6l67s9xSIJQsi7aVptN3bqpDT0JL-VaZoRtDtLu4jIfOxjPpveGquxOB4aEsgtsAhx4pvuEHrTVSxjxFL2u0Wk.k-pMcW27umgp058Mz3QD6g?mg=1792767964.138649.I_xkkX7mD3-KiiF5wGhnVQ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" tvg-name="Benwolf",Ben 10 Classic S3E5 - Benwolf
+https://fsldownload.com/p/XPNcyxGQvNYYyUbA.WzR1Spxva3PdDm9-RLJVapyht0Rczqv08QMoUKQ7o2R2A1qLOis6SNXeCH2qnllPgsE3LL9NSKaegeIzS3cSQUtw6wPobah0nHHYvFflRyiBz4J2-see8BpIErg3Qg--MkNiggtShmG_Pvk0kBZshhDgbCnUBA3_l1pQUDEnsBmgrwN6ua27n0QizuUppGKhbBB__TQ0aPVixoo8lh_4cJEFt5Cd6RWwOvqPynQu3zGx-jKo0Y4g7lDrHXC894b2CpIQoKtAqrw4iu8_ErCOsXqxL2HMmwbWYOxoweIk95TVL55mfIhKq2LTv2ktzri_OSH5B5SACb8yXQ0idj_so8u8YCwxi2Xs027DRX0maNwFEr6pv_fvHFT_UWZy9PuUhZRG2io_DN3DwbBAJnnCoRKZCca9OgPqydCLZsbF4MJkgP_Gw0IuOr7JLXwsF1SVwYi-pnk.LrhnYn_YXmYJKHhSI6cowQ?mg=1792767964.138649.I_xkkX7mD3-KiiF5wGhnVQ
+
