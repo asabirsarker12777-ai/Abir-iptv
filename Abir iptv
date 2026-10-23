@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="demo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="kids", Disney channel hd 
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/246763.ts
 
+#EXTINF:-1 tvg-id="demo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="kids", Disney channel hd 2 
+http://markethelp1.com:80/live/sree1602/9196sree/19741.ts
+
 #EXTINF:-1 tvg-id="demo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=originalcontent=originalriginal" group-title="kids", Disney channel 
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hzQr1GDXRIEYG_ejdeShuFU#fb:M3U_World_4K
 
