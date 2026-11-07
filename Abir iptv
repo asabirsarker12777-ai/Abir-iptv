@@ -228,3 +228,18 @@ https://ravok.buzz/cdn/hls/aba5cabc946684cb48b25b3e48aefb1b/master.m3u8?md5=nPU2
 
 #EXTINF:-1 tvg-name="Dragon Ball Super Episode 131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="Anime",Dragon Ball Super Episode 131
 https://ravok.buzz/cdn/hls/ac815cc6638761a91436367d68c91834/master.m3u8?md5=AGY4VxRhCZD1e1yjZrL5Nw&expires=1794036892
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png" group-title="Anime",Dragon Ball Daima Episode 1
+https://bcdn.hakunaymatata.com/resource/h265/fb2d7e987ac522af924d41543acdfeae.mp4?sign=d92ad1edf9b232599fc3943af770749e&t=1794058172
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png" group-title="Anime",Dragon Ball Daima Episode 2
+https://bcdn.hakunaymatata.com/resource/edc749675cdbfdf18f06174c1c49cec8.mp4?sign=148b4a55e845aa789b8cc6ed5afff145&t=1794058235
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png" group-title="Anime",Dragon Ball Daima Episode 3
+https://bcdn.hakunaymatata.com/resource/b4b1d4db43679e0a5fd220ea32900aad.mp4?sign=046fce02cb2e4489b6a65fe8369676aa&t=1794058417
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png" group-title="Anime",Dragon Ball Daima Episode 4
+https://bcdn.hakunaymatata.com/resource/892ffa6780581d11f698c0b2db31dba2.mp4?sign=70fa8cf5be2d7bc0d6eb7eded0f63b4c&t=1794058417
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png" group-title="Anime",Dragon Ball Daima Episode 5
+https://bcdn.hakunaymatata.com/resource/h265/75ca755c236efb181b1ff79944a8f12e.mp4?sign=4285e53a26ed1fc42a6cab45d901606c&t=1794058523
